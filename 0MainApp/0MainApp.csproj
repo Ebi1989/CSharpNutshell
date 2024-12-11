@@ -16,6 +16,7 @@
     <ProjectReference Include="..\ErrorOr\ErrorOr.csproj" />
     <ProjectReference Include="..\PipelineOriented\PipelineOriented.csproj" />
     <ProjectReference Include="..\Events\Events.csproj" />
+    <ProjectReference Include="..\ROP\ROP.csproj" />
   </ItemGroup>
 
 </Project>
